@@ -44,7 +44,7 @@
 
 ![""](images/TagHeuer.png)
 
-80艺术家作品展示
+80设计师作品展示
 
 ![""](images/80ad.png)
 
