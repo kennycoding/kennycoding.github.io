@@ -240,7 +240,7 @@ LBS聚会社交分享APP
 
 产品设计iPad电子杂志
 
-![""](images/projectimg-ideco.png)
+![""](images/projectimg-idesign.png)
 
 # uNote
 
