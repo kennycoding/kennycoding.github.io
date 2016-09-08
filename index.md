@@ -16,11 +16,9 @@ layout: default
 
 [iPad 家庭端APP](https://itunes.apple.com/zh/app/meng-xiang-jia-shou-ji-ke/id1088730576?mt=8)
 
-![""](images/hulk-home.jpg)
-
 [iPhone 移动端APP](https://itunes.apple.com/zh/app/meng-xiang-jia-shou-ji-ke/id1088730576?mt=8)
 
-![""](images/hulk-mobile.png)
+![""](images/projectimg-hulk.png)
 
 # 云西游智能自行车
 
@@ -40,7 +38,7 @@ layout: default
 
 相关技术：iPhone, swift
 
-![""](images/power.png)
+![""](images/projectimg-power.png)
 
 -----------------------
 # 2015
@@ -63,7 +61,7 @@ Apple Watch健身小游戏
 
 相关技术：Apple watch, HealthKit, swift
 
-![""](images/donald.png)
+![""](images/projectimg-donald.png)
 
 # goofy
 
@@ -73,7 +71,7 @@ Apple Watch健身小游戏
 
 相关技术：Arduino, ESP8266, VS1003, iPhone, android, Socket, Elixir
 
-![""](images/goofy1.jpeg)
+![""](images/projectimg-goofy.png)
 
 ![""](images/goofy2.jpeg)
 
@@ -139,9 +137,7 @@ LBS聚会社交分享APP
 
 相关技术：iPad, iPhone, swift, LBS
 
-![""](images/hitaxi_driver.png)
-
-![""](images/hitaxi_user.png)
+![""](images/projectimg-hitaxi.png)
 
 -----------------------
 # 2012
@@ -165,13 +161,13 @@ LBS聚会社交分享APP
 
 [app store](https://itunes.apple.com/us/app/80-a-d/id457856749?mt=8)
 
-![""](images/80ad.png)
+![""](images/projectimg-80ad.png)
 
 # 七彩语文电子杂志
 
 ![""](images/icon-emag.png)
 
-![""](images/emag.jpg)
+![""](images/projectimg-emag.png)
 
 # abook
 
@@ -179,7 +175,7 @@ LBS聚会社交分享APP
 
 阿拉伯文版ibooks电子书库
 
-![""](images/abook.jpg)
+![""](images/projectimg-abook.png)
 
 # EasyBranding
 
@@ -187,7 +183,7 @@ LBS聚会社交分享APP
 
 传世国际品牌及项目管理APP
 
-![""](images/EasyBranding.png)
+![""](images/projectimg-EasyBrandind.png)
 
 # LaundryPack
 
@@ -201,19 +197,19 @@ LBS聚会社交分享APP
 
 酒吧连锁体验APP
 
-![""](images/Hof.jpg)
+![""](images/projectimg-hof.png)
 
 # TAG Heuer Carrera 1887
 
 豪雅产品展示APP
 
-![""](images/carrera1887.jpg)
+![""](images/projectimg-carrera1887.png)
 
 # 博众财经
 
 股市资讯SNS
 
-![""](images/bzmoney.png)
+![""](images/projectimg-bzmoney.png)
 
 -----------------------
 # 2010/2011
@@ -232,19 +228,19 @@ LBS聚会社交分享APP
 
 品牌及门店3D虚拟体验A
 
-![""](images/TagHeuer.png)
+![""](images/projectimg-TagHeuer.png)
 
 # iDeco
 
 家居装潢iPad电子杂志
 
-![""](images/ideco.jpg)
+![""](images/projectimg-ideco.png)
 
 # iDesign
 
 产品设计iPad电子杂志
 
-![""](images/idesign.jpg)
+![""](images/projectimg-ideco.png)
 
 # uNote
 
