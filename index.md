@@ -4,8 +4,8 @@ layout: default
 
 # 2016
 
-### 梦想家智能相框 
-
+### 梦想家智能相框
+![""](images/icon-hulk.png)
 梦想家将你闲置的iPad变成智能相框。展示家庭照片、旅行足迹，向家人留言，帮助孩子学习。让闲置的设备变成家庭中心，让你随时随地感受家庭的温暖。
 
 相关技术：iPad, iPhone, android, LBS, Socket, Ruby, Sinatra 
