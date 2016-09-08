@@ -6,7 +6,8 @@ layout: default
 
 ### 梦想家智能相框 
 
-梦想家将你闲置的iPad变成智能相框。展示家庭照片、旅行足迹，向家人留言，帮助孩子学习。让闲置的设备变成家庭中心，让你随时随地感受家庭的温暖。 
+梦想家将你闲置的iPad变成智能相框。展示家庭照片、旅行足迹，向家人留言，帮助孩子学习。让闲置的设备变成家庭中心，让你随时随地感受家庭的温暖。
+相关技术：iPad, iPhone, android, LBS, Socket, Ruby, Sinatra 
 [iPad 家庭端APP](https://itunes.apple.com/zh/app/meng-xiang-jia-shou-ji-ke/id1088730576?mt=8)
 ![""](images/hulk-home.jpg)
 [iPhone 移动端APP](https://itunes.apple.com/zh/app/meng-xiang-jia-shou-ji-ke/id1088730576?mt=8)
@@ -15,42 +16,48 @@ layout: default
 ### 云西游智能自行车
 
 云西游时领先的互联网智能自行车。集成Smart超大功率助力电机、360智能灯光系统、全反馈式振动车把、轻触转向刹把等全球领先的智能自行车技术。
-
 配合APP可全程提供场景化智能动力系统、精准数据智能分析、GPS导航、路线纪录分享、路书分享、骑友发现体验式社交、GPS防盗等功能。
+相关技术：iPhone, android, BLE, LBS, PHP, Rails
 [产品主页](http://z.jd.com/project/details/51020.html)
 ![""](images/xiyou.jpeg)
 
 ### 太阳能智能电站监控
+相关技术：iPhone, swift
 ![""](images/power.png)
-
 
 # 2015
 
 ### 台台台
 工作桌面摆设展示分享
+相关技术：android, iPhone, 动画
 ![""](images/baymax2.png)
 
 ### 臭屁猪
 Apple Watch健身小游戏
+相关技术：Apple watch, HealthKit, swift
 ![""](images/donald.png)
 
 ### goofy
 儿童网络聊天智能玩具
+相关技术：Arduino, ESP8266, VS1003, iPhone, android, Socket, Elixir
 ![""](images/goofy1.jpeg)
 ![""](images/goofy2.jpeg)
 
 ### freddy
 iPhone推送通知灯玩具
+相关技术：BLE，iPhone
 ![""](images/freddy1.jpg)
 ![""](images/freddy2.JPG)
 
 ### 五彩智能LED相框
 蓝牙连接调光
+相关技术：Arduino, BLE
 ![""](images/colorled1.JPG)
 ![""](images/colorled2.jpg)
 
 ### 医家人
 医生职业SNS
+相关技术：android
 ![""](images/yijiaren.png)
 
 
@@ -58,14 +65,17 @@ iPhone推送通知灯玩具
 
 ### 圈圈
 LBS群组聊天社交APP
+相关技术：iPhone, android, PHP, LBS, IM
 ![""](images/oo.png)
 
 ### 移客
 LBS聚会社交分享APP
+相关技术：iPhone, android, PHP, LBS
 ![""](images/ekeo.jpeg)
 
 ### HiTaxi
 东南亚出租车呼叫管理
+相关技术：iPad, iPhone, swift, LBS
 ![""](images/hitaxi_driver.png)
 ![""](images/hitaxi_user.png)
 
