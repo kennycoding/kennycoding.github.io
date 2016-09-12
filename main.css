@@ -26,5 +26,8 @@ body{background-color:#4e6c84; height: 100%;  font-size: 14px; font-family: "Mic
 .side-bar{float:right; margin-top:10px; width:280px; height:500px; background-color: #fff; -webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px;}
 
 .app-section {margin-bottom: 0px;}
-.app-image {margin-right: 10px; width: 320px;}
+.app-image {margin-right: 10px; width: 320px; vertical-align: top;}
 .app-desc {position:relative; left:340px; top:-320px; width: 280px; height:200px; margin-bottom: -170px;}
+
+.app-icon {width:36px; height:36px; vertical-align: top;}
+.app-title {font-size: 20px; vertical-align: top; margin-left: 6px;}
